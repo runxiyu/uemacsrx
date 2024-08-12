@@ -140,7 +140,7 @@ Clear and redraw ......      ^L         Exchange point and mark   ^X ^X
 Redraw display ........ Meta ^L
 Execute named command . Meta  X         Insert string ......... not bound  
 Execute command line .. not bound       Overwrite string ...... not bound
-Set encryption key .... Meta  E         Wrap word ............. not bound
+					Wrap word ............. not bound
 Count words ........... Meta ^C         Update screen ......... not bound
 -------------------------------------------------------------------------------
 =>                      SYSTEM VARIABLES
